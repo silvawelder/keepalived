@@ -34,4 +34,16 @@ vrrp_instance ens160 {
 }
 
 ```
+| Configuration        | Options        | Definition                                                                                                                  |
+|----------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------|
+| vrrp_instance ens160 | N/A            | defines an individual instance of the VRRP protocol running on an interface. I have arbitrarily named this instance ens160. |
+| state master         | master, backup | state defines the initial state that the instance should start in                                                           |
+| interface            |                | defines the interface that VRRP runs on.                                                                                    |
+| virtual_router_id    |                | is the unique identifier                                                                                                    |
+|                      |                |                                                                                                                             |
+|                      |                |                                                                                                                             |
+|                      |                |                                                                                                                             |
+|                      |                |                                                                                                                             |
+|                      |                |                                                                                                                             |
+
 
