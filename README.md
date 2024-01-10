@@ -46,4 +46,7 @@ vrrp_instance ens160 {
 |                      |                |                                                                                                                             |
 |                      |                |                                                                                                                             |
 
+# References
 
+1. https://www.redhat.com/sysadmin/ha-cluster-linux
+2. https://www.redhat.com/sysadmin/keepalived-basics
